@@ -1,0 +1,6 @@
+public class Controller{
+
+	public void doController(){
+	//TODO code here
+	}
+}		
